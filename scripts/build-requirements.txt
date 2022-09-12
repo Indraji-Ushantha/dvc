@@ -1,2 +1,2 @@
-PyInstaller==4.3
+PyInstaller==5.4.1
 numpy==1.19.3
